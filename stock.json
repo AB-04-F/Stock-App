@@ -1,0 +1,34 @@
+{
+    "stocks": [{
+            "id": 1,
+            "name": "SBI",
+            "logo": "https://1000logos.net/wp-content/uploads/2018/03/SBI-Logo-500x281.png",
+            "payload": {}
+        },
+        {
+            "id": 2,
+            "name": "ACC",
+            "logo": "https://dcassetcdn.com/design_img/3699246/764404/22083069/w882a63356934ebsdrjqrgzysd_image.jpg",
+            "payload": {}
+        },
+        {
+            "id": 3,
+            "name": "MRF",
+            "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/7739/brand.gif?itok=oKByXLrE",
+            "payload": {}
+        },
+        {
+            "id": 4,
+            "name": "ITC",
+            "logo": " https://cdn.freebiesupply.com/logos/large/2x/itc-limited-logo-black-and-white.png",
+            "payload": {}
+        },
+
+        {
+            "id": 5,
+            "name": "IFB",
+            "logo": "https://www.ifbagro.in/assets/images/logo.gif",
+            "payload": {}
+        }
+    ]
+}
